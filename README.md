@@ -1,4 +1,7 @@
 # clone_ui
+Screenshot
+![whatsapp_clone](https://github.com/aamirali65/WhatsApp-Clone-Flutter/assets/103622237/481c9383-dc19-4741-85b8-3f06c38b1673)
+
 
 A new Flutter project.
 
